@@ -8,6 +8,7 @@ venv/
 gensim_env/
 myenv/
 virtual_environment/
+ajit/
 
 # Ignore MLflow artifacts
 mlruns/
