@@ -1,0 +1,18 @@
+ECHO is on.
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment folder
+venv/
+gensim_env/
+myenv/
+virtual_environment/
+# Ignore MLflow artifacts
+mlruns/
+
+# Ignore VS Code config
+.vscode/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
